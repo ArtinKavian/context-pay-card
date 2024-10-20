@@ -1,0 +1,10 @@
+# System files
+AppData/
+NTUSER.*
+ntuser.*
+
+# Node.js dependencies
+node_modules/
+
+# VS Code workspace settings
+.vscode/
